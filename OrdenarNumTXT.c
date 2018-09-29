@@ -1,3 +1,10 @@
+/*
+@autor:
+ * César Villalobos
+ * Estudiante: Ing.Sistemas UDI
+ *29/09/2018
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
